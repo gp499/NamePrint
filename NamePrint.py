@@ -1,0 +1,2 @@
+print("Guruprasad"*5)
+
